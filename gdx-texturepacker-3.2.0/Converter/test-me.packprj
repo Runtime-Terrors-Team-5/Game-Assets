@@ -1,7 +1,7 @@
 name=test-me!
 filename=
-input=input
-output=output
+input=test_input
+output=test_output
 
 alias=true
 alphaThreshold=0
