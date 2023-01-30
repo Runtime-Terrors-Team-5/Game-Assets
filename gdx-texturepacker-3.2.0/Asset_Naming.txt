@@ -51,5 +51,13 @@ _S                  Selected
 _A                  Alt (Mainly for the floor)
 
 ####################################
-System Inspired From Techniques used here:
+Credits:
+*Assets created by Callum Watson using other components sourced from google
+under the licence: Creative Commons CC0 1.0 Universal Public Domain Dedication. See more here:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+*Assets packed using gdx-texturepacker.jar:
+https://libgdx.com/wiki/tools/texture-packer
+
+*System Inspired From Techniques used here:
 https://ikrima.dev/ue4guide/wip/assets-naming-convention/
